@@ -3,9 +3,9 @@
  * @author    Atakan S.
  * @date      01/01/2019
  * @version   1.0
- * @brief     Demo project for cpprestsdk using reqres server.
+ * @brief     Example project for cpprestsdk using reqres server tutorial.
  *  
- *  atakansarioglu.com/easy-quick-start-cplusplus-rest-client-cpprest-tutorial
+ *  atakansarioglu.com/easy-quick-start-cplusplus-rest-client-example-cpprest-tutorial
  *
  * @copyright Copyright (c) 2018 Atakan SARIOGLU ~ www.atakansarioglu.com
  *
